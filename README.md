@@ -1,5 +1,5 @@
 # Overview 
-Welcome to Dr. Wheeler's lab! This tutorial will introduce you to some essential bioinformatic tools for GWAS and statistical analysis used in the lab. See the Wiki tab to begin! Students will learn to use PLINK2 for handling large genotype data and running GWAS results, and R for data transformation, statistical validation, and visualizing results. The workshop offers a step by step guide with instructions for both Windows and Mac users. 
+Welcome to Dr. Wheeler's lab! This tutorial will introduce you to some essential bioinformatic tools for GWAS and statistical analysis used in the lab. See the Wiki tab to begin! Students will learn to use PLINK2 for handling large genotype data and running GWAS results, and R for data transformation, statistical validation, and visualizing results, and LocusZoom. The workshop offers a step by step guide with instructions for both Windows and Mac users. 
 
 # Software Requirements
 - R
